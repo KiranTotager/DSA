@@ -1,5 +1,7 @@
 package Practice.numbers;
 
+
+// problem statement: given integer N return the smallest integer and greater than N which is equal too som of digits is equal to twice  sum of digits of N
 public class Deloite {
     public static int sumDigit(int num){
         int res=0;
