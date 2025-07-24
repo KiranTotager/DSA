@@ -12,5 +12,6 @@ public class fibonacciNumbers {
         for(n=0;n<=20;n++){
             System.out.print(fib(n)+" ");
         }
+//        int[] a=new int[5];
     }
 }
